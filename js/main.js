@@ -5,6 +5,17 @@ AOS.init({
 	offset: -100
 });
 
+document.querySelectorAll('.project').forEach(item => {
+	item.addEventListener('mouseenter', () => {
+	  item.style.transform = 'scale(1.1)';
+	});
+	item.addEventListener('mouseleave', () => {
+	  item.style.transform = 'scale(1)';
+	});
+  });
+
+  
+
 jQuery(function($) {
    
    'use strict';
