@@ -5,7 +5,8 @@ AOS.init({
 	offset: -100
 });
 
-document.querySelectorAll('.project').forEach(item => {
+
+  document.querySelectorAll('.project').forEach(item => {
 	item.addEventListener('mouseenter', () => {
 	  item.style.transform = 'scale(1.1)';
 	});
@@ -13,6 +14,7 @@ document.querySelectorAll('.project').forEach(item => {
 	  item.style.transform = 'scale(1)';
 	});
   });
+  
 
   
 
