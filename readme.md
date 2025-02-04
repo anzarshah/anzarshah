@@ -2,6 +2,7 @@
 <h3 align="center">Data Professional | Machine Learning | AI | Analytics</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anzarshah&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=anzarshah&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ---
 
@@ -89,7 +90,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anzarshah&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anzarshah&theme=radical" />
 </p>
 
 ---
