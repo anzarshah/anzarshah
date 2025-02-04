@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Anzar Aslam Shah 👋</h1>
 <h3 align="center">Data Professional | Machine Learning | AI | Analytics</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anzarshah&label=Profile%20Views&color=0e75b6&style=flat)
-![](https://komarev.com/ghpvc/?username=anzarshah&label=Profile%20Views&color=0e75b6&style=flat-square)
-
 ---
 
 ## 🚀 About Me
