@@ -94,10 +94,5 @@
 
 ---
 
-## 📈 Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=anzarshah&color=blue)
-
----
-
 ✨ **Connect with me on LinkedIn!** [anzarshah](https://www.linkedin.com/in/anzarshah/) ✨
 
