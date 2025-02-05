@@ -22,12 +22,12 @@
 - Designed and executed experiments using **OpenAI API & Python**.
 - Analyzed interaction patterns for behavioral studies.
 
-### 🔹 Data Analyst, **Favourite Electrical (Jan 2022 – July 2023)**
+### 🔹**Favourite Electrical (Jan 2022 – July 2023)**
 - Led **business process optimization**, reducing costs by 15%.
 - Developed **automated KPI dashboards**, reducing reporting time by 40%.
 - Conducted **competitive analysis**, increasing customer acquisitions by 25%.
 
-### 🔹 Data Analyst, **IDEAXA, India (Nov 2019 – Dec 2021)**
+### 🔹 **IDEAXA, India (Nov 2019 – Dec 2021)**
 - Automated routine data processing using **Python & AWS**, saving 20 hours/week.
 - Led a **pricing strategy implementation**, increasing revenue by 10%.
 - Designed **data-driven marketing strategies**, improving revenue by 70%.
